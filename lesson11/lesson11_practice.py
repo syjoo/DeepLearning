@@ -20,7 +20,6 @@ def check(name, ok):
     print(f"  [{'PASS' if ok else 'FAIL'}] {name}")
     return ok
 
-
 # ---------------------------------------------------------------------
 # Part 1. Scaled Dot-Product Attention (식 11.4 ~ 11.6)
 #   alpha_ij = q_i . k_j / sqrt(d_k)      a_ij = softmax_j(alpha_ij)      z_i = sum_j a_ij v_j
