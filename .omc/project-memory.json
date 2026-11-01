@@ -1,0 +1,58 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1793460074049,
+  "projectRoot": "G:\\OneDrive\\Courses\\DeepLearning\\Modern Deep Learning Foundation\\github\\DeepLearning",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "lesson11": {
+      "path": "lesson11",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1793460073985,
+      "keyFiles": [
+        "code_test.py",
+        "lesson11_practice.py",
+        "lesson11_practice_solution.py",
+        "lesson11_practice_solution.py Explanation.md",
+        "soft_max.ipynb"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "lesson11/lesson11_practice_solution.py",
+      "accessCount": 8,
+      "lastAccessed": 1793550378636,
+      "type": "directory"
+    }
+  ],
+  "userDirectives": []
+}

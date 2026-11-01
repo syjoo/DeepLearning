@@ -39,7 +39,6 @@ def attention(Q, K, V, mask=None, scale=True):
     """Q,K: (T, d_k)   V: (T, d_v)   mask: (T, T) bool, True = 볼 수 있음.
     return: (출력 Z (T, d_v), 어텐션 가중치 A (T, T))"""
     d_k = Q.shape[-1]
-    
     scores = Q @ K.T                      # (T, T)  모든 (i, j) 쌍의 내적
     
     if scale:
