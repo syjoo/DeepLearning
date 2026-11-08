@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1793460074049,
-  "projectRoot": "G:\\OneDrive\\Courses\\DeepLearning\\Modern Deep Learning Foundation\\github\\DeepLearning",
+  "lastScanned": 1794058359438,
+  "projectRoot": "F:\\DeepLearning",
   "techStack": {
     "languages": [],
     "frameworks": [],
@@ -35,14 +35,25 @@
     "lesson11": {
       "path": "lesson11",
       "purpose": null,
-      "fileCount": 5,
-      "lastAccessed": 1793460073985,
+      "fileCount": 6,
+      "lastAccessed": 1794058359393,
       "keyFiles": [
         "code_test.py",
         "lesson11_practice.py",
         "lesson11_practice_solution.py",
         "lesson11_practice_solution.py Explanation.md",
-        "soft_max.ipynb"
+        "lesson11_practice_solution.py Explanation.pdf"
+      ]
+    },
+    "Slider": {
+      "path": "Slider",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1794058359393,
+      "keyFiles": [
+        "CLAUDE.MD",
+        "logo.png",
+        "logow.svg"
       ]
     }
   },
@@ -52,6 +63,228 @@
       "accessCount": 8,
       "lastAccessed": 1793550378636,
       "type": "directory"
+    },
+    {
+      "path": "Slider/transformer/deck/part1.js",
+      "accessCount": 5,
+      "lastAccessed": 1794072629064,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/numpy_version/step6_transformer.py",
+      "accessCount": 3,
+      "lastAccessed": 1794110976720,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/numpy_version/step5_autograd.py",
+      "accessCount": 2,
+      "lastAccessed": 1794058714879,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer",
+      "accessCount": 2,
+      "lastAccessed": 1794134107676,
+      "type": "directory"
+    },
+    {
+      "path": "Slider/transformer/tiny_corpus.txt",
+      "accessCount": 1,
+      "lastAccessed": 1794058680950,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/numpy_version/step1_embedding.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058681539,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/numpy_version/step2_positional_encoding.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058682050,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/numpy_version/step3_attention.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058682496,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/numpy_version/step4_multihead.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058682992,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/pytorch_version/step1_embedding_pe.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058793603,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/pytorch_version/step2_attention.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058794094,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/pytorch_version/step3_multihead.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058794603,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/pytorch_version/step4_block.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058795078,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/pytorch_version/step5_gpt_train.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058795575,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/pytorch_version/step6_compare_builtin.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058796011,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/practice_solutions.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058844349,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/make_images.py",
+      "accessCount": 1,
+      "lastAccessed": 1794058884045,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/deck/lib.js",
+      "accessCount": 1,
+      "lastAccessed": 1794058962026,
+      "type": "file"
+    },
+    {
+      "path": "Slider/transformer/deck/part2.js",
+      "accessCount": 1,
+      "lastAccessed": 1794059311362,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_01.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059353033,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_02.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059353762,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_03.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059354192,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_04.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059365957,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_05.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059366842,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_06.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059367722,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_07.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059375207,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_08.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059376171,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_09.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059376988,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_10.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059386139,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_11.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059387141,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_12.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059388197,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_13.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059394232,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/sheet_14.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059395492,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/chk_1.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059445508,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/chk_2.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059446407,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/chk_3.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059447488,
+      "type": "file"
+    },
+    {
+      "path": "C:/Users/Seong/AppData/Local/Temp/claude/4e478d3d1938a1ab/54c2b789-1311-4639-ab67-c534e8dd7938/scratchpad/chk_final.png",
+      "accessCount": 1,
+      "lastAccessed": 1794059481681,
+      "type": "file"
     }
   ],
   "userDirectives": []

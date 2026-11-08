@@ -1,0 +1,7 @@
+attention is all you need.
+the transformer reads every word at once.
+it asks which words matter for this word.
+query, key and value help it decide.
+many heads look at the sentence in many ways.
+layers stack up and the meaning grows richer.
+little by little the model learns to predict the next letter.
